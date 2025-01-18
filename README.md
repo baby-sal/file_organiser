@@ -13,6 +13,9 @@ Creating the file organiser:
     https://www.geeksforgeeks.org/python-shutil-move-method/
     https://github.com/microsoft/pyright/blob/main/docs/configuration.md#reportMissingImports 
 
+4. https://www.w3schools.com/python/ref_string_casefold.asp
+
 
 Errors:
 1. TypeError: endswith first arg must be str or a tuple of str, not list
+2. shutil.move conflicting with the function I had named 'move', changed to move_file
